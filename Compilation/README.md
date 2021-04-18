@@ -23,5 +23,8 @@ docker stop/start docker_compilation
 ```
 docker exec -it docker_compilation <command>
 ```
-
+4. Example: 
+```
+docker exec -it docker_compilation /bin/bash
+```
 
